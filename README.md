@@ -1,6 +1,6 @@
 # GitApp
 
-Développer d'une application mobile native Android avec deux activités :
+Développement d'une application mobile native Android avec deux activités :
 
   a. MainActivity : 
   
