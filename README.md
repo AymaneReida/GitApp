@@ -18,3 +18,5 @@ Développement d'une application mobile native Android avec deux activités :
       1- Récupérer le login de l’utilisateur dans les paramètres de l’Intent.
       2- Envoyer une requête vers l’API RESTful Git pour récupérer la liste des Repositories de cet utilisateur.
       3- Afficher les Repositories dans une ListView.
+
+Cette application a été développée en langage Java en utilisant l'environnement Android studio.
