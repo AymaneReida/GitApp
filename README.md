@@ -2,7 +2,7 @@
 
 Développer d'une application mobile native Android avec deux activités :
 
-  a. MainActivity 
+  a. MainActivity : 
   
     Cette activité permet de :
       1- Saisir un mot clé « query » dans un EditText.
